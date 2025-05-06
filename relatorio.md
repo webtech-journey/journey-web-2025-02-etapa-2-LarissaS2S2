@@ -1,8 +1,8 @@
 # 🧪 Relatório de Avaliação – Autograder HTML - LarissaS2S2
 
-**Data:** 06/05/2025 19:10
+**Data:** 06/05/2025 19:12
 
-**Nota Final:** `72.22/100`
+**Nota Final:** `77.22/100`
 **Status:** ✅ Aprovado
 
 ---
@@ -14,7 +14,9 @@
     - **Melhoria sugerida**: Há uma tag <tr> não fechada no HTML. Verifique se todas as tags de abertura têm suas respectivas tags de fechamento.
 
 ## ⭐ Itens de Destaque (20%)
-- Você conquistou `2` bônus! Excelente trabalho nos detalhes adicionais!
+- Você conquistou `3` bônus! Excelente trabalho nos detalhes adicionais!
+  - 🌟 **Testes bônus passados**: `test_bonus.py::test_caption_is_meaningful`
+    - A legenda da tabela está bem definida e significativa. Excelente!
   - 🌟 **Testes bônus passados**: `test_bonus.py::test_more_than_two_rows_and_columns`
     - Sua tabela tem mais de 2 linhas e colunas, ótimo trabalho!
   - 🌟 **Testes bônus passados**: `test_bonus.py::test_indentation_and_formatting`
